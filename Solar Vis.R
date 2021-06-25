@@ -1,5 +1,7 @@
 # BOM Solar Vises
 # inspiration from: https://www.r-graph-gallery.com/297-circular-barplot-with-groups.html
+# generates multiple visualisations of solar exposure from a BOM dataset:
+#  http://www.bom.gov.au/jsp/ncc/cdio/weatherData/av?p_nccObsCode=193&p_display_type=dailyDataFile&p_startYear=&p_c=&p_stn_num=066006
 
 install.packages("tidyverse")
 install.packages("ggridges")
